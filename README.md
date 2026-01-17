@@ -75,11 +75,6 @@ I’m **Marcos Samuel**, a Full Stack Junior Developer in career transition afte
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcossamueldev&layout=compact&langs_count=7&theme=tokyonight" width="815px" />
-</p>
-
 ---
 
 ## 🧾 How I document progress (what you will see in my repos)
