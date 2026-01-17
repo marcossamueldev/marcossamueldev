@@ -82,3 +82,5 @@ I’m eager to learn, contribute and grow in a collaborative team.
 **LinkedIn:** https://linkedin.com/in/marcos-samuel-dev
 
 ---
+
+[![card](https://github-readme-stats.vercel.app/api?username=marcossamueldev&theme=default)](https://github.com/anuraghazra/github-readme-stats)
