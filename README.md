@@ -66,14 +66,14 @@ I’m **Marcos Samuel**, a Full Stack Junior Developer in career transition afte
 
 ## 📈 Growth & live stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcossamueldev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcossamueldev&theme=react" alt="streak" />
+  <img width="500em" height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcossamueldev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="500em" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcossamueldev&theme=react" alt="streak" />
 </div>
 
 <br />
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcossamueldev&layout=compact&langs_count=7&theme=tokyonight" />
+<img width="500em" height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcossamueldev&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 ---
