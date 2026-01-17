@@ -60,8 +60,13 @@ Live: https://marcossamueldev.github.io/estudos/estudosiniciais/site-cafeteria/
 
 <!-- GitHub readme stats (requires adding your username) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcossamueldev&show_icons=true&theme=radical" alt="github stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcossamueldev&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcossamueldev&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
+
 
 <!-- Streak / Commits -->
 <p align="center">
@@ -83,16 +88,4 @@ I’m eager to learn, contribute and grow in a collaborative team.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcossamueldev&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcossamueldev&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcossamueldev&show_icons=true&theme=radical" alt="GitHub Stats Radical" />
-</p>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcossamueldev&show_icons=true&theme=tokyonight" />
