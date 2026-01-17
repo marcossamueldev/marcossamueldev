@@ -60,25 +60,21 @@ I’m **Marcos Samuel**, a Full Stack Junior Developer in career transition afte
 
 ---
 
-### 🍔 **Restaurant Order System (in progress)**  
-**Live:** https://marcossamueldev.github.io/estudos/estudosiniciais/sistema-lanchonete/frontend/index.html  
-**What I built:** Simulated order flow and UI for point-of-sale; architecture planned for backend integration.  
-**Evolution:** v1.0 UX prototype → v1.1 order flow logic → next: API backend & persistence.
-
----
-
 > More projects and exercises are available in the `estudos` repo and in the portfolio link above.
 
 ---
 
 ## 📈 Growth & live stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcossamueldev&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcossamueldev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcossamueldev&theme=react" alt="streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcossamueldev&theme=react" alt="streak" />
-</p>
+<br />
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcossamueldev&layout=compact&langs_count=7&theme=tokyonight" />
+</div>
 
 ---
 
@@ -106,11 +102,10 @@ Junior Developer / Internship opportunities — remote, hybrid or on-site (Goiâ
 
 ## 📌 Quick recruiter checklist (what you'll find)
 1. Clean, focused projects with demos  
-2. Versioned evolution (v1.0 → v1.1 → v1.2) in READMEs  
+2. Versioned evolution (v1.0 → v1.1 ) in READMEs  
 3. Commit history with meaningful messages  
 4. Basic tests / manual test steps in projects  
 5. Contact info & availability for interviews
 
 ---
 
-*Last updated: `YYYY-MM-DD` — (update this date when you push significant changes)*
