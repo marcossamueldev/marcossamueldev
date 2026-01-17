@@ -52,10 +52,6 @@ Repo: https://github.com/marcossamueldev/estudos
 Live: https://marcossamueldev.github.io/estudos/estudosiniciais/site-cafeteria/  
 **Highlights:** Mobile-first, semantic HTML, accessibility basics.
 
-### 🍔 Restaurant Order System (in progress)  
-Live: https://marcossamueldev.github.io/estudos/estudosiniciais/sistema-lanchonete/frontend/index.html  
-**Highlights:** Simulated order flow, UX for POS, architecture planning for future backend.
-
 > More projects: portfolio + smaller JS exercises (links in profile).
 
 ---
@@ -71,30 +67,6 @@ Live: https://marcossamueldev.github.io/estudos/estudosiniciais/sistema-lanchone
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcossamueldev&theme=react" alt="streak" />
 </p>
-
----
-
-## ✨ Visuals & 3D
-To make the profile stand out I use:
-- an animated intro (typing SVG),  
-- an embedded 3D/GIF banner (upload a GIF to the repo and reference it),  
-- optional GitHub Action generating a 3D SVG contributor image.
-
-**Example of 3D/GIF usage:**  
-`![3D banner](./assets/3d-banner.gif)`  
-*(upload `3d-banner.gif` to your repo `assets/` folder and reference like above)*
-
-Resources: gif-3d visualizer and profile-3d contrib action provide patterns to generate 3D assets. :contentReference[oaicite:1]{index=1}
-
----
-
-## 🧾 Project Evolution (example — include in each project README)
-- **v1.0** – static layout and content  
-- **v1.1** – API integration and CRUD operations  
-- **v1.2** – State management and cart persistence  
-- **v1.3** – UI polish, loading states, error handling
-
-Use structured commit messages (feat/fix/refactor/docs/style) to show progress and maturity.
 
 ---
 
