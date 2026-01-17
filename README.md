@@ -59,7 +59,7 @@ Currently studying **Systems Analysis and Development**, focusing on **JavaScrip
 > Web application consuming external APIs, implementing product listing, filters, and cart logic.
 
 🔗 **Live Demo:**  
-https://marcossamueldev.github.io/estudos-html-css-/estudosiniciais/aprendendoapi/loja-barattie/category.html
+https://marcossamueldev.github.io/estudos/estudosiniciais/aprendendoapi/loja-barattie/category.html
 
 ---
 
@@ -67,7 +67,7 @@ https://marcossamueldev.github.io/estudos-html-css-/estudosiniciais/aprendendoap
 > Responsive institutional website focused on UI/UX and mobile-first design.
 
 🔗 **Live Demo:**  
-https://marcossamueldev.github.io/estudos-html-css-/estudosiniciais/site-cafeteria/
+https://marcossamueldev.github.io/estudos/estudosiniciais/site-cafeteria/
 
 ---
 
@@ -75,7 +75,7 @@ https://marcossamueldev.github.io/estudos-html-css-/estudosiniciais/site-cafeter
 > Web system simulating order management for a restaurant environment.
 
 🔗 **Live Demo:**  
-https://marcossamueldev.github.io/estudos-html-css-/estudosiniciais/sistema-lanchonete/frontend/index.html
+https://marcossamueldev.github.io/estudos/estudosiniciais/sistema-lanchonete/frontend/index.html
 
 ---
 
