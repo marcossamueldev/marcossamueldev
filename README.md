@@ -34,33 +34,44 @@ I’m **Marcos Samuel**, a Full Stack Junior Developer in career transition afte
 ---
 
 ## 🛠 Tech Stack (what I use today)
-**Front-end:** HTML5 · CSS3 · JavaScript (ES6+) · React (Hooks, Context)  
-**Back-end:** Node.js · Express · REST APIs  
-**DB:** MySQL · PostgreSQL  
-**Tools:** Git · GitHub · Postman · Docker (basic)  
-**Practices:** Clean Code · Semantic HTML · Responsive & accessible UI · Commit conventions
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+<br />
+
+## 🧠 Soft Skills & Professional Traits
+> Vindo de uma trajetória de **7 anos no Exército Brasileiro**, desenvolvi competências que aplico diariamente no desenvolvimento de software:
+
+* **Disciplina & Resiliência:** Foco total na entrega e persistência para resolver bugs complexos.
+* **Adaptabilidade:** Capacidade de aprender novas tecnologias rapidamente (Career Pivot).
+* **Liderança & Trabalho em Equipe:** Experiência em ambientes de alta pressão e colaboração mútua.
+* **Organização:** Commits semânticos e documentação clara (Clean Code & Convention).
 
 ---
 
 ## 🔥 Featured projects (vitrine)
 > Each project below has a short description, live demo (when available) and a one-line evolution log you can open to see progress.
 
-### 🛒 **E-commerce Web — API Consumption**  
-**Live:** https://marcossamueldev.github.io/estudos/estudosiniciais/aprendendoapi/loja-barattie/category.html  
+### 🛒 **E-commerce Web — API Consumption** **Live:** https://marcossamueldev.github.io/estudos/estudosiniciais/aprendendoapi/loja-barattie/category.html  
 **Repo:** https://github.com/marcossamueldev/estudos  
 **What I built:** Product listing (API), category filtering, cart (LocalStorage), responsive layout.  
 **Evolution:** v1.0 static → v1.1 API integration → v1.2 cart persistence → v1.3 UI polish & error handling.
 
 ---
 
-### ☕ **Coffee Shop — Mobile-First Site**  
-**Live:** https://marcossamueldev.github.io/estudos/estudosiniciais/site-cafeteria/  
+### ☕ **Coffee Shop — Mobile-First Site** **Live:** https://marcossamueldev.github.io/estudos/estudosiniciais/site-cafeteria/  
 **What I built:** Mobile-first landing page with semantic HTML and CSS (performance & accessibility basics).  
 **Evolution:** v1.0 layout → v1.1 responsiveness improvements → v1.2 accessibility fixes.
-
----
-
-> More projects and exercises are available in the `estudos` repo and in the portfolio link above.
 
 ---
 
@@ -75,6 +86,7 @@ I’m **Marcos Samuel**, a Full Stack Junior Developer in career transition afte
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🧾 How I document progress (what you will see in my repos)
@@ -105,6 +117,3 @@ Junior Developer / Internship opportunities — remote, hybrid or on-site (Goiâ
 3. Commit history with meaningful messages  
 4. Basic tests / manual test steps in projects  
 5. Contact info & availability for interviews
-
----
-
