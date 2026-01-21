@@ -23,7 +23,7 @@ I’m **Marcos Samuel**, a Full Stack Junior Developer in career transition afte
 
 **Phone:** +55 62 99514-1626  
 **Email:** marcossamuelps.dev@gmail.com  
-**Portfolio:** https://marcossamueldev.github.io/projetos/portfolio/  
+**Portfolio:** https://marcossamueldev.github.io/portfolio/ 
 **GitHub:** https://github.com/marcossamueldev
 
 ---
