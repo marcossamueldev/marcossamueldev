@@ -19,7 +19,7 @@
 ---
 
 ## 🚀 Quick intro
-I’m **Marcos Samuel**, a Full Stack Junior Developer in career transition after **7 years in the Brazilian Army**. I build responsive web apps with React and Node, integrate external APIs and document my progress with focused commits and versioned releases.
+I’m **Marcos Samuel**, a Full Stack Developer in career transition after **7 years in the Brazilian Army**. I build responsive web apps with React and Node, integrate external APIs and document my progress with focused commits and versioned releases.
 
 **Phone:** +55 62 99514-1626  
 **Email:** marcossamuelps.dev@gmail.com  
