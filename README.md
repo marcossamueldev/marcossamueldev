@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi — I'm Marcos Samuel Silva  
-**Full Stack Junior Developer • React.js · Node.js · JavaScript · SQL**
+**Full Stack Developer • React.js · Node.js · JavaScript · SQL**
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=720&lines=Full+Stack+Junior+Developer;Building+real+web+projects;Always+learning+and+shipping" alt="typing" />
